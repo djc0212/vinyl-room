@@ -76,6 +76,14 @@ const ALBUMS = [
   { artist: "Cameron Winter", album: "Heavy Metal", link: "https://open.spotify.com/album/4DIsYjr8LU6hy9rp5JlJlG", service: "spotify" },
   { artist: "Stevie Wonder", album: "Talking Book", link: "https://open.spotify.com/album/1mFbd0xKPmkXMaRlyelIZv", service: "spotify" },
   { artist: "Various Artists (Warchild)", album: "Help(2)", link: "https://open.spotify.com/album/2VVKd2wqHEkoREf8T5LFca", service: "spotify" },
+  { artist: "Mort Garson", album: "Mother Earth's Plantasia", link: "https://open.spotify.com/album/0NJRPgK15C8qoLuQv1hChv", service: "spotify" },
+  { artist: "Radiohead", album: "Kid A", link: "https://open.spotify.com/album/6GjwtEZcfenmOf6l18N7T7", service: "spotify" },
+  { artist: "Radiohead", album: "Amnesiac", link: "https://open.spotify.com/album/1HrMmB5useeZ0F5lHrMvl0", service: "spotify" },
+  { artist: "Tangerine Dream", album: "Phaedra", link: "https://open.spotify.com/album/6wugThEUTAa6BdI2hsqm5n", service: "spotify" },
+  { artist: "Jean-Michel Jarre", album: "Oxygene", link: "https://open.spotify.com/album/6qF91BDNaJY4PI0mSwYv8L", service: "spotify" },
+  { artist: "Angine de Poitrine", album: "Vol II", link: "https://open.spotify.com/album/3FqqIeynZXFBcyLS9FlWMo", service: "spotify" },
+  { artist: "Broadcast", album: "The Noise Made By People", link: "https://open.spotify.com/album/10nM1bEq6nBmY5CvK9gDVI", service: "spotify" },
+  { artist: "Stereolab", album: "Dots and Loops", link: "https://open.spotify.com/album/4TQhvd3hojFZAIZCRULdhn", service: "spotify" },
 ];
 
 const DELAY_MS = 500;
