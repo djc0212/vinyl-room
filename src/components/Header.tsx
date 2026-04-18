@@ -7,6 +7,7 @@ const NAV_ITEMS = [
   { href: "/rig", label: "The Rig" },
   { href: "/collection", label: "The Collection" },
   { href: "/synth", label: "The Synth" },
+  { href: "/video", label: "The Video" },
 ] as const;
 
 export function Header() {
