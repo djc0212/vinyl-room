@@ -84,6 +84,16 @@ const ALBUMS = [
   { artist: "Angine de Poitrine", album: "Vol II", link: "https://open.spotify.com/album/3FqqIeynZXFBcyLS9FlWMo", service: "spotify" },
   { artist: "Broadcast", album: "The Noise Made By People", link: "https://open.spotify.com/album/10nM1bEq6nBmY5CvK9gDVI", service: "spotify" },
   { artist: "Stereolab", album: "Dots and Loops", link: "https://open.spotify.com/album/4TQhvd3hojFZAIZCRULdhn", service: "spotify" },
+  { artist: "Radiohead", album: "Hail to the Thief", link: "https://open.spotify.com/album/5mzoI3VH0ZWk1pLFR6RoYy", service: "spotify" },
+  { artist: "Frank Zappa", album: "Hot Rats", link: "https://open.spotify.com/album/0WYYrC9My9rYWigac003hw", service: "spotify" },
+  { artist: "Neil Young", album: "Harvest Moon", link: "https://open.spotify.com/album/0tdm853TNWjVVChbJRbu3Q", service: "spotify" },
+  { artist: "Big Thief", album: "Double Infinity", link: "https://open.spotify.com/album/1yEo1ZJE5ZgIF7LYrDTbMK", service: "spotify" },
+  { artist: "Polygon Window", album: "Surfing on Sine Waves (Expanded Edition)", link: "https://open.spotify.com/album/0z4LrP0YfgopkrgVntXcBN", service: "spotify" },
+  { artist: "Olivia Dean", album: "The Art of Loving", link: "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ", service: "spotify" },
+  { artist: "Olivia Rodrigo", album: "Sour", link: "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j", service: "spotify" },
+  { artist: "Bob Dylan", album: "Blonde on Blonde", link: "https://open.spotify.com/album/4NP1rhnsPdYpnyJP0p0k0L", service: "spotify" },
+  { artist: "Oasis", album: "Definitely Maybe", link: "https://open.spotify.com/album/3LzKUdUTdJb6P7xGN6SotC", service: "spotify" },
+  { artist: "Pink Floyd", album: "Animals", link: "https://open.spotify.com/album/3b4E89rxzZQ9zkhgKpj8N4", service: "spotify" },
 ];
 
 const DELAY_MS = 500;
